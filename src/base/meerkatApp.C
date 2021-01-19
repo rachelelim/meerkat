@@ -4,6 +4,9 @@
 #include "ModulesApp.h"
 #include "MooseSyntax.h"
 
+#include "MovingDirac_new.h"
+
+
 InputParameters
 meerkatApp::validParams()
 {
